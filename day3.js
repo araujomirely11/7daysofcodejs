@@ -22,8 +22,9 @@ function aparecePrompt() {
         listaTechs.push(novaTech);
         aprender = prompt(`Que legal que quer estudar ${novaTech}! Agora sua lista de aprendizado está assim: ${listaTechs}. Existe mais alguma tech que deseja aprender? 1- sim  2- não`);
         if (aprender = "2") {
-        break 
-        alert("Bons estudos para você então!")
+        alert("Bons estudos para você então!");
+        break
     }
     }
+
 }  
