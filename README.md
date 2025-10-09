@@ -4,3 +4,5 @@
 1º dia: Igualdade entre valores; 07/10/2025 🆗
 
 2º dia: Entender como capturar e armazenar valores dentro de variáveis; 08/10/2025 🆗
+
+3º dia: Criar destinos possíveis (loop); 09/10/2025 
